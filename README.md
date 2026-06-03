@@ -1,2 +1,2 @@
 # learn-python
-this is my first based project
+this is my based project for beginner
